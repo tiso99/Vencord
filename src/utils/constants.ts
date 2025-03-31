@@ -588,6 +588,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "samsam",
         id: 836452332387565589n,
     },
+    tiso: {
+        name: "tiso",
+        id: 1251221319085854808n,
+    },
 } satisfies Record<string, Dev>);
 
 // iife so #__PURE__ works correctly
